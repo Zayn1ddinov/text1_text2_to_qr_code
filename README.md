@@ -5,7 +5,7 @@ This Python script generates QR codes with additional text overlays using the "q
 # Installation
 
 **1. Clone the Repository:**
-  git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+  git clone https://github.com/Zayn1ddinov/text1_text2_to_qr_code
   
   cd YOUR_REPOSITORY/qrcode_generator
 
